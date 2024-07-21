@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:506ef6a3388ff630b95c8fba2b0177f0af8fd613b9e53e30d904554569daea83
-size 716
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.yolov8ncnn.app-mergeDebugResources-46:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chenchen\\.gradle\\caches\\transforms-3\\60f9bab79c5ba5b4c82ae8c6a17130c1\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

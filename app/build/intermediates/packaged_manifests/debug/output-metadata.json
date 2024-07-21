@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08ef6b24216e9a2cb89f156d139333be5547d5cc00c5004c4a49eee007976770
-size 398
+{
+  "version": 3,
+  "artifactType": {
+    "type": "PACKAGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.tencent.yolov8ncnn.test",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.1",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ],
+  "elementType": "File"
+}

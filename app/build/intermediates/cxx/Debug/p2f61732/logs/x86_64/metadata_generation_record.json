@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e539f00319714278b6d2e1e997aeedb70a735474153affc3123433fd4ee87c47
-size 1353
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86_64",
+    "file_": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\.cxx\\Debug\\p2f61732\\x86_64\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

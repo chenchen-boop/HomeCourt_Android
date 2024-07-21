@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ea8fbb138734bfa3af2493d6a8d74cdca6d0f50e5e71a19170bc9365b9eb6b0
-size 774
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.yolov8ncnn.app-mergeDebugResources-46:/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chenchen\\.gradle\\caches\\transforms-3\\60f9bab79c5ba5b4c82ae8c6a17130c1\\transformed\\appcompat-1.6.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

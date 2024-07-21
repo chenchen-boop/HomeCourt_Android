@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:387a43fd4e07a25e596bdb3e1ed8f5a560ff6437722421aa77687679c7b9b834
-size 740
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.yolov8ncnn.app-mergeDebugResources-46:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chenchen\\.gradle\\caches\\transforms-3\\901bea8934a37070ec38e6eb501e75cf\\transformed\\material-1.12.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

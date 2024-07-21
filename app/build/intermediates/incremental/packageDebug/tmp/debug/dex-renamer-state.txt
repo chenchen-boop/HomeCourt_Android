@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6d05275ddb8d7047ce20b537f552e9c4d81ea9d5d23193d408bab7b01979af2
-size 1466
+#Fri Jul 05 15:50:26 GMT+08:00 2024
+base.0=C\:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=C\:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.4=C\:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.5=C\:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.6=C\:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=11/classes.dex
+path.3=12/classes.dex
+path.4=3/classes.dex
+path.5=9/classes.dex
+path.6=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex
+renamed.6=classes7.dex

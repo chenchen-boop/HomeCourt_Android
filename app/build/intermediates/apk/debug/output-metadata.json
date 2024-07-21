@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ef3a5f915b4fa247be76b960d4054ad381adbceda3f8df4a2ae9e3c2826259a
-size 401
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.tencent.yolov8ncnn.test",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.1",
+      "outputFile": "com.tencent.yolov8ncnn.test-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

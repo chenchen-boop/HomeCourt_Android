@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1a3b8d6f4351e5d9cba7731297f07fb699796fc2dc05a075b39234bcacfe506
-size 155
+ninja: Entering directory `C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\.cxx\Debug\p2f61732\arm64-v8a'
+ninja: no work to do.

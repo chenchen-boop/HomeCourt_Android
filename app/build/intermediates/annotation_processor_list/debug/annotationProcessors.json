@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2e01bb20f2cd8b925125a9e5944d40326be591e46d8c306950abc8468ba7282
-size 179
+{"room-compiler-2.6.1.jar (androidx.room:room-compiler:2.6.1)":"KSP_PROCESSOR","databinding-compiler-8.2.2.jar (androidx.databinding:databinding-compiler:8.2.2)":"INCREMENTAL_AP"}

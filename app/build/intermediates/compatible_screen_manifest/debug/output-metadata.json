@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e88bea8cb62be5f534979139caed291f228264b83ac40a1ad2d515053b2e91c9
-size 203
+{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.tencent.yolov8ncnn.test",
+  "variantName": "debug",
+  "elements": []
+}
