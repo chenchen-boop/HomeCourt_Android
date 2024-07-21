@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f7cc8c8cf96dfa70dd0f33ea93bceaa1f61c36a752e48d04f724f422935957e0
-size 349
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov8-test.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncnn-android-yolov8-test.app.main.iml" />
+    </modules>
+  </component>
+</project>

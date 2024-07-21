@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c06f83fa4e6dc371348806dd5f1ecda747ab7e100a2545ae117c71d36c5709d
-size 534
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\debug\jniLibs"/></dataSet></merger>

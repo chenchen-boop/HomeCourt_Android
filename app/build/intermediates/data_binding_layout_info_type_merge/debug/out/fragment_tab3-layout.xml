@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84662cec7b64ce4e01214a48e5f5e0adc02e67bae4f4eea6a6f5f13821ffaa04
-size 589
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><Layout layout="fragment_tab3" modulePackage="com.tencent.yolov8ncnn" filePath="app\src\main\res\layout\fragment_tab3.xml" directory="layout" isMerge="false" isBindingData="false" rootNodeType="android.widget.LinearLayout"><Targets><Target tag="layout/fragment_tab3_0" view="LinearLayout"><Expressions/><location startLine="1" startOffset="0" endLine="16" endOffset="14"/></Target><Target id="@+id/lvShow" view="ListView"><Expressions/><location startLine="11" startOffset="0" endLine="14" endOffset="35"/></Target></Targets></Layout>
